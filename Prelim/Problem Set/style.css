@@ -1,0 +1,18 @@
+ h1{
+
+    color:yellow orange
+    font-family: 'Amatic SC' , cursive;
+    font-size: 100px;
+
+ }
+ h2{
+    color: yellow orange;
+    font-family: 'Arima Madurai' , cursive;
+    font-size: 40px;
+ }
+ p{
+    color: black
+    font-family: 'Arima Madurai' , cursive;
+    font-size: 20px;
+    font-style: bold;
+ }
